@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
 #include <iostream>
 #include <vector>
 using namespace std;
